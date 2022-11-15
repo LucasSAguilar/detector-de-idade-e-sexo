@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;1,500;1,700&family=Roboto+Mono:ital,wght@1,700&display=swap');
+* {
+
+outline: 0px;
+padding: 0;
+margin: 0;
+font-family: 'Poppins', sans-serif;
+
+}
+
+body {
+height: 100vh;
+background-image: linear-gradient(rgb(36, 238, 194), rgb(41, 87, 88));
+
+
+}
+
+#titulo {
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+
+}
+
+#container {
+color: black;
+background-color: rgba(255, 255, 255, 0.911);
+width: 400px;
+border-radius: 5px;
+box-shadow: 5px 5px 10px black;
+margin: auto;
+line-height: 40px;
+padding: 20px;
+}
+
+#horas {
+
+margin-bottom: 20px;
+
+}
+
+#botaoVerificar {
+
+    width: 80px
+
+}
+
+#foto {
+
+    margin-left: 50%;
+    transform: translate(-50%);
+
+}
+
+#info {
+
+font-size: 12px;
+
+}
+
+#creditos {
+    font-size: 10px;
+    color: white;
+text-align: center;
+margin-top: 20px;
+
+}
+
+#objetos {
+
+margin: auto;
+
+}
+
